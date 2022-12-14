@@ -6,6 +6,8 @@ import mysql from './mysql.png'
 import photoshop from './photoshop.png'
 import vegas from './vegas.png'
 import aftereffects from './aftereffects.png'
+import git from './git.png'
+import node from './node.png'
 
 export default{
     "react":react,
@@ -15,5 +17,7 @@ export default{
     "mysql":mysql,
     "photoshop":photoshop,
     "vegas":vegas,
-    "aftereffects":aftereffects
+    "aftereffects":aftereffects,
+    "git":git,
+    "node":node
 }

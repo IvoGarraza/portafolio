@@ -1,0 +1,7 @@
+.waveUp{
+    position: relative;
+    bottom: -4px;
+}
+.waveDown{
+    z-index: -10;
+}
